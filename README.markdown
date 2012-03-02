@@ -4,7 +4,7 @@ A Dragon Appears (ADA) is an open-source roleplaying game. It is built for modul
 
 ADA games are built of modules. Games will declare them at the outset like this:
 
->	Game Name
+	Game Name
 	=========
 	Uses:
 	-	Core Characters
@@ -12,7 +12,7 @@ ADA games are built of modules. Games will declare them at the outset like this:
 
 What's happening here? The script `ada.py` uses this information to combine modules from the ADA library into one markdown file that constitutes the complete game, and all the rules it will need. The syntax goes like this:
 
->	Game Name
+	Game Name
 	=========
 	Uses:
 	-	[module] [section]
