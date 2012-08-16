@@ -1,6 +1,13 @@
 README
 ======
-A Dragon Appears (ADA) is an open-source roleplaying game, published under GPLv3 (see `LICENSE.markdown` for more info). It is built for modularity, accessibility, and portability, so that it can tell any story, or involve any player, with as little work as possible. That said, ADA recognizes an important harsh reality: Rules restrict. Thus, no single game could tell every story. Each ADA module has a gameplay goal in mind, to which it aspires, whether that be realistic combat, sophisticated court drama, involved character development, or anything else a designer can conceive of.
+
+A Dragon Appears (ADA) is a system for building open-source roleplaying games, published under GPLv3 (see `LICENSE.markdown` for more info). It is built for modularity, accessibility, and portability, so that it can tell any story, or involve any player, with as little work as possible. That said, ADA recognizes an important harsh reality: Rules restrict. Thus, no single game could tell every story. Each ADA module has a gameplay goal in mind, to which it aspires, whether that be realistic combat, sophisticated court drama, involved character development, or anything else a designer can conceive of.
+
+## Defunct
+
+This project is currently shelved. If you're looking for the game A Dragon Appears (rather than the system), go [here](https://github.com/garbados/games/blob/master/a_dragon_appears.md)
+
+## Spec
 
 ADA games are built of modules. Build files (denoted by ending with `_build.markdown`) will declare what modules the game consist of like this:
 
